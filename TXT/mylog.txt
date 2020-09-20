@@ -6,4 +6,5 @@ ZCZC W00  60  L01 SCELE related
 ZCZC W00  60  L02 ZOOM
 ZCZC W00  15  L03 Creating Github Repo And Website
 ZCZC W00  30  L05 GSGS creating Github Website
-ZCZC W00  30   L04 Creating Github Website
+ZCZC W00  30  L04 Creating Github Website
+ZCZC W00  15  L03 Create Top 10 List
