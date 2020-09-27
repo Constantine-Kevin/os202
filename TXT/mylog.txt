@@ -11,3 +11,6 @@ ZCZC W00  15  L03 Create Top 10 List
 ZCZC W01  120 L02 ZOOM
 ZCZC W01  120 L21 Install VBOX
 ZCZC W01  15  L00 Update Log
+ZCZC W01  10  L22 Youtube for Github Pages
+ZCZC W01  10  L05 GSGS Github Pages
+ZCZC W01  30  L04 Setup W00,W01 Pages
