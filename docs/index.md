@@ -1,8 +1,7 @@
 ## Welcome to my Github Webpage!
 
 
-### My Log
-[Here!](https://github.com/Constantine-Kevin/os202/blob/master/TXT/mylog.txt)
-[Here!](../TXT/mylog.txt)
-[Top 10](../TXT/Top_10.txt)
-
+My Log (https://github.com/Constantine-Kevin/os202/blob/master/TXT/mylog.txt)
+##Top 10
+[Week 0](W00/)
+[Week 1](W01/)
