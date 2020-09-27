@@ -8,3 +8,6 @@ ZCZC W00  15  L03 Creating Github Repo And Website
 ZCZC W00  30  L05 GSGS creating Github Website
 ZCZC W00  30  L04 Creating Github Website
 ZCZC W00  15  L03 Create Top 10 List
+ZCZC W01  120 L02 ZOOM
+ZCZC W01  120 L21 Install VBOX
+ZCZC W01  15  L00 Update Log
