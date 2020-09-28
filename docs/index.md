@@ -1,7 +1,7 @@
 ## Welcome to my Github Webpage!
 
 
-[My Log](TXT/mylog.txt)
+[My Log](os202/TXT/mylog.txt)
 <br>
 ## Top 10
 * [Week 0](W00/)
