@@ -14,3 +14,9 @@ ZCZC W01  15  L00 Update Log
 ZCZC W01  10  L22 Youtube for Github Pages
 ZCZC W01  10  L05 GSGS Github Pages
 ZCZC W01  30  L04 Setup W00,W01 Pages
+ZCZC W02  120 L02 ZOOM
+ZCZC W02  75  L04 W02 Page
+ZCZC W02  80  L21 Generate Key Pair, Import Key
+ZCZC W02  15  L04 Creating myrank W02
+ZCZC W02  30  L05 GSGS SSH Git bash, how to copy paste in command line
+ZCZC W02  15  L00 Update Log
