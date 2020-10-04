@@ -15,7 +15,8 @@
 * [Week 1](W01/)
 * [Week 2](W02/)
 <br>
-##
+
 <br>
 <img src="pepe.jpg">
+<br>
 Enjoy Your Visit! ~KC
