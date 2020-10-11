@@ -23,3 +23,7 @@ ZCZC W02  15  L00 Update Log
 ZCZC W02  30  L21 Setup and run script
 ZCZC W02  15  L05 GSGS linux script & image github pages
 ZCZC W02  10  L04 Improve home website
+ZCZC W03  120 L02 ZOOM
+ZCZC W03  120 L13 Do Assignment
+ZCZC W03  75  L04 W03 top 10 list, update rank, update log
+ZCZC W03  80  L01 Forum Assignment
