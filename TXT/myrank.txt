@@ -7,3 +7,6 @@ ZCZC W01 azhar81
 ZCZC W02 gpersable
 ZCZC W02 aulia-adil
 ZCZC W02 baguspr
+ZCZC W03 aulia-adil
+ZCZC W03 baguspr
+ZCZC W03 eugenebrigita
