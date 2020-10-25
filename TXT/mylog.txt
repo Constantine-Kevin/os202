@@ -30,3 +30,7 @@ ZCZC W03  80  L01 Forum Assignment
 ZCZC W04  120 L02 ZOOm
 ZCZC W04  60  L14 Do Assignment
 ZCZC W04  75  L04 W04 top 10 list, rank
+ZCZC W05  120 L02 ZOOM
+ZCZC W05  60  L15 Do assignment
+ZCZC W05  15  L21 Update packages
+ZCZC W05  120 L04 W05 top 10 list,rank 
