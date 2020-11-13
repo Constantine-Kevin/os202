@@ -34,3 +34,6 @@ ZCZC W05  120 L02 ZOOM
 ZCZC W05  60  L15 Do assignment
 ZCZC W05  15  L21 Update packages
 ZCZC W05  120 L04 W05 top 10 list,rank 
+ZCZC W06  180 L04 W06 Top 10 List, Rank
+ZCZC W06  120 L25 Study for assignment
+ZCZC W06  60  L16 Do Assignment
