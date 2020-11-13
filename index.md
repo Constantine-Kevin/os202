@@ -21,6 +21,6 @@
 <br>
 
 <br>
-<img src="pepe.jpg">
+<img src="SandBox/pepe.jpg">
 <br>
 Enjoy Your Visit! ~KC
