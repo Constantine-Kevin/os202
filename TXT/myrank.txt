@@ -16,3 +16,6 @@ ZCZC W04 aulia-adil
 ZCZC W05 eugenebrigita
 ZCZC W05 baguspr
 ZCZC W05 bilazahra
+ZCZC W06 destarass
+ZCZC W06 eugenebrigita
+ZCZC W06 baguspr
