@@ -40,3 +40,6 @@ ZCZC W06  60  L16 Do Assignment
 ZCZC W07  120 L02 ZOOM
 ZCZC W07  60  L17 Do Assignment
 ZCZC W07  130 L04 W07 top 10 List, rank
+ZCZC W08  120 L02 ZOOM
+ZCZC W08  80  L17 Do Assignment
+ZCZC W08  130 L04 W08 top 10 List, rank
